@@ -1,0 +1,7 @@
+# Concatenacion cadenas de texto
+texto_1 = 'JAVIER MEJIA'
+texto_2 = 'PRUEBA DE REPOSITORIO'
+
+concatenacion = texto_1 + '. ' + texto_2 + '.'
+
+print(f'{concatenacion}')
